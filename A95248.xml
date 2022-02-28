@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the passages which happened at the town of Portsmouth at the late siege, which began the 12 day of August last, and was surrendered on the 7th day of September following. 1642. Written by one that was employed in that service.</title>
+            <author>One that was employed in that service.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95248</idno>
+            <idno type="STC">Wing T3015</idno>
+            <idno type="STC">Thomason E118_22</idno>
+            <idno type="STC">ESTC R212777</idno>
+            <idno type="EEBO-CITATION">99871348</idno>
+            <idno type="PROQUEST">99871348</idno>
+            <idno type="VID">123758</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95248)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123758)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the passages which happened at the town of Portsmouth at the late siege, which began the 12 day of August last, and was surrendered on the 7th day of September following. 1642. Written by one that was employed in that service.</title>
+                  <author>One that was employed in that service.</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hunscot,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 21. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Portsmouth (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123758:1" rendition="simple:additions"/>
+            <p>A True RELATION OF THE PASSAGES Which happened at the Town of Portſmouth At the late Siege, which began the 12 day of <hi>Auguſt</hi> laſt, and was ſurrendered on the 7<hi rend="sup">th</hi> day of <hi>September</hi> following. 1642.</p>
+            <p>
+               <hi>Written by one that was employed in that Service.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Joſeph Hunſcot. Septemb.</hi> 21. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="test">
+            <pb facs="tcp:123758:2"/>
+            <pb n="1" facs="tcp:123758:2"/>
+            <head>A TRVE RELATION of the PASSAGES and OCCVRRENCES that happened at the towne of PORTSMOUTH, at the late Siege, which began the 12. day of <hi>Auguſt</hi> laſt, and was ſurrendred on the 7. day of <hi>September</hi> following, 1642.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ollonell <hi>Goring</hi> being Governour of the towne of <hi>Portſmouth,</hi> about tueſday being the ſecond day of <hi>Auguſt,</hi> 1642 declared himſelfe to be for the King alone, and not for the King and Par<g ref="char:EOLhyphen"/>liament; but for the King alone, a<g ref="char:EOLhyphen"/>gainſt the Parliament, and therefore to keepe the ſame (as was pretended) for his Majeſties coming thither, he repayred the mounts and other fortifications without the towne; and rayſed a mount at the bridge called <hi>Portbridge,</hi> which is three miles from the
+<pb n="2" facs="tcp:123758:3"/>towne, and the onely paſſage into the Iſland of <hi>Portſey,</hi> which lyeth betweene the towne and the ſaid bridge, which <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>nd alſo is three miles in breadth the other way, which Iſland <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> al<g ref="char:EOLhyphen"/>ſo compaſſed about with a great ditch of water that doth <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be and flow with the tyde, ſo as there is no paſſage out of the ſaid Iſland, but over the ſayd <hi>Portbridge:</hi> and upon the ſame mount at the bridge he placed ſome foure pieces of ordinance to keepe the paſſage and to make himſelfe wholly maſter of the ſayd Iſland.</p>
+            <p>But yet upon the firſt coming of forces <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owne from the Parliament, which was about the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>th day of <hi>August,</hi> he tooke away the ordinance and carried them backe againe into the towne, and in the carrying of them backe, the one of them was left halfe a mile without the towne, becauſe the carriage there<g ref="char:EOLhyphen"/>of was broken, and then the bridge was kept onely with ten or twelve Troopers furniſhed with piſtolls and carbines.</p>
+            <p>Now the Parliament Troopers went out part of them three miles from the bridge at a towne called <hi>Southwich,</hi> being weſt<g ref="char:EOLhyphen"/>ward from the ſayd bridge, and the other part of them at <hi>Ha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant,</hi> which lyeth from the ſayd bridge three miles eaſtward, and the Parliament Troopers ſhewed themſelves on <hi>Porchdown</hi> which lyeth on <hi>London</hi> way, from the bridge halfe a mile.</p>
+            <p>Vpon Thurſday the eleuenth of <hi>Auguſt</hi> in the night, the whole company of Troopers within the towne, iſſued out in<g ref="char:EOLhyphen"/>to the Iſland of <hi>Portſey,</hi> and brought in all the cattel and ſheepe that were in the whole Iſland, and pillaged the houſes of the inhabitants. and tooke from them all proviſion of meat, corne, poultry, piggs, bread and corne, and left very little, nay not ſo much as bread for the families from whence they tooke it, for to ſuſtaine them a day.</p>
+            <p>The number of beaſts they brought into the towne was a<g ref="char:EOLhyphen"/>bout three hundred and fifty, and ſuch a number of ſheepe and lambes, and they preſently killed the fatteſt of the cattell, and ſome of the beſt ſheepe, wand the reſt they keept within the towne, upon ſome ground below the mounts that round the
+<pb n="3" facs="tcp:123758:3"/>towne, but the moſt of them they put out without the towne-gate into a marſh neere the towne in the Iſland, and there kept them with ſome musketiers.</p>
+            <p>Vpon Friday night the twelfth of <hi>Auguſt</hi> the Parliament Troopers came in the night and beate the Governours Troo<g ref="char:EOLhyphen"/>pers from the bridge, and ſo became maſters of the bridge and of the whole Iſland, and they tooke one of the Governours Troopers priſoner, and tooke anothers horſe who ſaved him<g ref="char:EOLhyphen"/>ſelfe by his leaping from his horſe, and going over hedges into the corne-fieldes, who had his hat cut, and his head a little ra<g ref="char:EOLhyphen"/>ſed with a ſword, but not much hurt. Then they raiſed up two mounts, and placed fix pieces of ordinance, which they had out of the ſhip called the <hi>Maria,</hi> which Captain <hi>Buſhell</hi> boar<g ref="char:EOLhyphen"/>ded and tooke, and carried unto <hi>Hampton,</hi> and from thence brought unto <hi>Portbridge,</hi> and placed them in the two mounts, three of them towards the towne, and three of them towards <hi>Porthdowne.</hi>
+            </p>
+            <p>The next day being ſatterday the 13. of Auguſt, the Lord <hi>Wentworth</hi> with all the Troopers they could make, being about threeſcore, iſſued out of the Towne into the Iſland halfe a mile to take in the piece of ordinance which was left behinde, by reaſon of the breaking of the carriage, being one of the foure they tooke backe from the bridge, which they brought backe into the Towne without any oppoſition at all.</p>
+            <p>Afterwards there were ſeverall attempts made by the Par<g ref="char:EOLhyphen"/>liament Troopers to get the cattel without the gate, and divers aſſaults were made, and ſome combats, and many blowes, but no great hurt done, the towne-Troopers ſoone retreated and ſaved themſelves, and made uſe of their ordinance to beat of the Parliament-Troopers, but there was no great hurt done, though ſome cannon-bullets came very neere and under their horſes bellyes but no hurt done. Then the Parliament-Troo<g ref="char:EOLhyphen"/>pers approached and came very neere to a mill faſt by the towne-mount, whereon their ordinance were placed, and they intended the firing of the mills to prevent their grinding
+<pb n="3" facs="tcp:123758:4"/>of corne, the ſaid mill being a water-mill, that onely goeth at the ebbing of the ſea: their aſſayling the mill and ſeeking to gaine the cattell occaſioned many ſhort skirmiſhes, and much playing of the ordinance, though none hurt by all their ſhot: one of the Parliament-Troopers upon a retreat left his hat be<g ref="char:EOLhyphen"/>hinde him that fell off his head; and at another time one of their men left a good ſword behind him which had been laſt<g ref="char:EOLhyphen"/>ned to the hand-wreſt of the Trooper, but the ribband brake, the ſword was eſtimated at five poundes by the Trooper that brought into the towne: another time the Troopers had ſallyed out of the towne, and were chaſed by the Parliament-Troopers and forced to retreate as hard as their horſes could carry them, and there was a Scotch-man a brave ſouldi<g ref="char:EOLhyphen"/>er followed the chaſe unto the very towne within the gate, (the towne-Troopers pretended that they conceived him to be one of their owne company) and coming within the gate, there were ſix of them all upon him, and he defended himſelfe bravely, and fought moſt valiantly, but they gave him three gaſhes in the head, and for all that hee was retreating and like to get away from them all, had not one very ſuddainly ſhut the gate againſt him, by occaſion whereof he was taken, and they tooke care for him, and procured the beſt Chirurgion they could to cure him, and let him want nothing for his con<g ref="char:EOLhyphen"/>veniency; and for his valour, the Governour gave him three pieces at his departure. About two dayes after a Trumpetter was ſent from the Parliament ſide to demand a parley for the exchange of Priſoners: but the ſouldiers that were on their duty on the mount by the gate, being ſo ignorant that they knew not the ſound of a parley from an alarum, let flye a piece of ordinance at him, but it hurt him not, but when hee came ſomewhat neere unto the gate he made knowne the meſ<g ref="char:EOLhyphen"/>ſage, viz. for the exchange of a priſoner to have the Scotch<g ref="char:EOLhyphen"/>man aforeſaid delivered to him in exchange of one they had taken before mentioned, at the taking of the Bridge; ſo the Trumpetter brought in the priſoner behinde him, and hee
+<pb n="5" facs="tcp:123758:4"/>tooke away with him behinde him the ſayd Scotch-man, who being blindefolded, was carried out to him to a place called Newgate, and there ſet up behinde the ſayd Trumpetter. At another time the laſt Skirmiſh, the Governour and the Lord <hi>Wentworth</hi> ſallyed out in the night with all their Troopers, in two companies unto the enemies workes, and were by the di<g ref="char:EOLhyphen"/>rection of one of the Aldermen of the towne called Maſter <hi>Winter,</hi> whom they call Lievtenant of <hi>Sausby</hi> Caſtle, who un<g ref="char:EOLhyphen"/>dertooke to guide them, and hee brought them unto the very court of Guard, thinking thereby to do them much miſchiefe, where they yet found oppoſition enough, and upon comba<g ref="char:EOLhyphen"/>ting they came off with the loſſe of three men, whereof one of them named <hi>Glover,</hi> the Governours owne man was ſlaine, and the ſayd <hi>Winter</hi> their guide was taken priſoner, and the third was Maſter <hi>Weſton</hi> h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s man, which Maſter <hi>Weſton</hi> is bro<g ref="char:EOLhyphen"/>ther unto the Earle of <hi>Portland,</hi> they alſo loſt a horſe of the Lord <hi>Wentworths,</hi> that the ſayd <hi>Winter</hi> rode on worth thirty poundes: the Governour at that time tooke ſix priſoners, whereof five of them were Musketiers, ſuch as had been ſenti<g ref="char:EOLhyphen"/>nels, and the other was a Trooper, a ſtout fellow, who was hurt onely by a thruſt into the arme, the five Musketiers the Governour gayned to become labourers to carry baskets of earth at the workes, but the other ſtood it out bravely and ſcorned to comply; the ſayd <hi>Winter</hi> was kept priſoner at the Court of Guard. And the Farme-houſe thereby, where Sir <hi>William Waller</hi> lodged, which is hardly a mile and a halfe without the towne, and from his houſe in the towne was per<g ref="char:EOLhyphen"/>mitted a boy of his, being his owne ſon, to come to him with cleane linnen, who brought word from his father unto the Governour that the King was very neere the towne, and at the furtheſt but at <hi>Br<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dſlands,</hi> which is but halfe a mile from <hi>Rom<g ref="char:EOLhyphen"/>ſey,</hi> and that a Troope of horſes from the Parliament-ſide was gone forth to conduct him unto <hi>Southwich</hi> unto the Lady <hi>Nor<g ref="char:EOLhyphen"/>tons</hi> houſe, and this came to be ſpread about the towne of pur<g ref="char:EOLhyphen"/>poſe to perſwade garriſon ſouldiers that the King would cer<g ref="char:EOLhyphen"/>tainely
+<pb n="6" facs="tcp:123758:5"/>come, and that ſuddenly, and then the King would doe great matters for them that ſhould ſtand cloſe to the buſi<g ref="char:EOLhyphen"/>neſſe, yea, they ſhould bee very well rewarded, becauſe the greateſt part of the garriſon ſouldiers were gone away by night, ſometimes foure, ſometimes ſix, and more or leſſe for a great many nights together. And the moſt of the beſt Gun<g ref="char:EOLhyphen"/>ners were gone from them, and all gone to the Parliament-ſide; and ſuch as were left of the garriſon were even heart<g ref="char:EOLhyphen"/>leſſe, and did little but upon meere compulſion; the Kings coming had been ſo long expected that they were hopleſſe.</p>
+            <p>And neere about that time came two men into the towne, as from the King, the one of them was the Lord <hi>Wentworths</hi> man, and the other was his guide: The Lord <hi>Wentworths</hi> man put of his good clothes, and got old clothes as if hee had beene ſome country ſhepheard in torne habit, and had en<g ref="char:EOLhyphen"/>tertainement on the Parliament-ſide and they both came into the towne, and by them was the newes brought that his Ma<g ref="char:EOLhyphen"/>jeſty was about <hi>Oxford,</hi> on his his way coming towards <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> and would be there within foure dayes with an Army, conſiſting of twelve thouſand foote, ſix thouſand five hundred horſe, and three thouſand Dragoneers, and would eaſily make his way through the Parliament forces.</p>
+            <p>About the eighteenth of <hi>Auguſt,</hi> the Governour and the watch plainely heard from <hi>Goſport</hi> (which is a village halfe a mile over the water from the towne) much digging with pick-axes, and driving of carts, whereby they ſenſibly percei<g ref="char:EOLhyphen"/>ved that they were framing ſome works to make a fort, where<g ref="char:EOLhyphen"/>at they were much troubled: whereupon they preſently from all their works that lay that way-ward let fly their ordinance that night, at the leaſt they ſent them threeſcore bullets, but they hurt but one man by his owne folly, for hee ſtood upon the worke with a candle and lanthorne in his hand, whereby they tooke a true aime, and ſhot him, his name was <hi>Peter Ba<g ref="char:EOLhyphen"/>ker</hi> a very good ſhip-carpenter, neither for all that did they de<g ref="char:EOLhyphen"/>ſiſt, but went on day and night though they ſhot at them
+<pb n="7" facs="tcp:123758:5"/>with ſome reſpit, yet day and night they ſhot ſtill: Yet <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all that they perfected two platforms, the one behinde a b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne for ten peeces of Ordinance, and another for two peeces of Ordinance behinde a Pile of faggots, though they ſhot fourteen dayes and fourteene nights, to diſturb and beat them off from them.</p>
+            <p>Upon <hi>Saterday</hi> the twentie ſeventh of <hi>Auguſt,</hi> came a Trumpet to ſound a Parley from the Parliament ſide: Who was led in blindfolded, and ſo carried out again: And a Drumme was ſent with Anſwer from the Governour the ſame day, and the Parly appointed. The next day about ten of the clocke, (being the Sabbath day) came into the towne for hoſtages, Sir <hi>William Waller</hi> and Sir <hi>William Lewes</hi> who dined with the Governour, and the hoſtages that went out to the Parliament ſide; were the Lord <hi>Went<g ref="char:EOLhyphen"/>worth</hi> and Maſter <hi>Lewkner,</hi> who is the Recorder of <hi>Chicheſter</hi> and is the man appointed by his Majeſtie to take in money and plate on his Majeſties behalfe) who dyned with Sir <hi>Thomas Ier<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as</hi> and others the Committees of the Parliament, but of this Parley came no good iſſue, the Governour would not yeeld to any ſuch articles as were then propounded.</p>
+            <p>The next day being monday the twenty nine of <hi>Auguſt,</hi> the Governour let fly his ordinance apace, both againſt <hi>Goſport</hi> and the other way at the Court of Guard of the Parliament, ſide and continued day and night with ſome intermiſſions) but did no great hurt more than make ſome holes into the toppes of houſes at <hi>Goſport,</hi> but killed not a man or an horſe.</p>
+            <p>All this time the ordinance being but two that were plan<g ref="char:EOLhyphen"/>ted at <hi>Goſport</hi> on the ſmall worke behinde the faggots played not at all upon them, it may bee well conceived they could have done it<g ref="char:punc">▪</g> But upon Friday the ſecond of <hi>September</hi> a Trumperter brought in a brace of bucks, who was brought in blind tolded, and ſo led out againe, which veniſon had been by the Committees of the Parliament promiſed unto the Gover<g ref="char:EOLhyphen"/>nour.</p>
+            <pb n="8" facs="tcp:123758:6"/>
+            <p>But ſome few hours <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> clock in the afternoone of the ſame day, they <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon the towne with two peaces of Ordinance; and at the third ſhot killed one of the Gariſon ſouldiers on the mount, as he was carrying of earth on the great mount at the gate: And cut off a french-mans legge next unto him above the knee: which French-man, (as it is ſaid) came to the Gover<g ref="char:EOLhyphen"/>nour upon particular buſineſſe of his owne, and he preferred him to imployment who is a Papiſt, his hurt was ſo great there is much doubt of his eſcape.</p>
+            <p>The Goverour himſelf, the Lord <hi>Wentworth</hi> in their own perſons; all their followers, and the Gariſon ſouldiers all that might be ſpared from their dutie, did all work that night to make a trench on the top of the mount, to prevent the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might come by the like ſhot<g ref="char:punc">▪</g> That upon the ſight of the few ring of the Ordinance they might leap down into that and ſave themſelves. <hi>Fryday</hi> night they ſhot not much from <hi>Goſport,</hi> but <hi>Saterday</hi> they playd wih their Ordnance, and ſhot through the tower of the Church and brake one of the bells, and ſhot againſt the Tower again and that <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and fell into the Church and ſhot down <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of a houſe, that is nere the Church and the end of the Church, and ſhot through a great many houſes in the town; but killed not any body. And on <hi>Saterday</hi> in the morning they ſhot at the Water-mill aforeſaid, the Miller commended it for a good thing to riſe betimes in the morning, (for <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid) if he had not riſen early, he had been killed in his bed; for a ballet took away one part of his bed. The reaſon they ſhot ſo much at the Church-Tower was by reaſon that at the top thereof is their watch-tower, whereby they do eſpy all the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to by Sea and by Land: and at the tolling of a bell, give inbtice both what Ships come by Sea, and what number of horſe come by Land. <hi>Saterday</hi> night they ſhot but ſive bullets from <hi>Goſport,</hi> but they did execute every one of them.</p>
+            <p>It was well obſerved that in a ſmall time as they ſhot from
+<pb n="9" facs="tcp:123758:6"/>
+               <hi>Goſport,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but at four of the clock on <hi>Fryday</hi> after<g ref="char:EOLhyphen"/>noone, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at four of the clock Sabbath day in the mor<g ref="char:EOLhyphen"/>ning, they did more execution with their two pieces of Ord<g ref="char:EOLhyphen"/>nance<g ref="char:punc">▪</g> then they had from the town with all their Ordnance in fourteen or ſixteen dayes and ſo many flights, in which that was accounted, they ſhot three hundred bullets and they killed but one man in all that time: whereas they had but two pre<g ref="char:EOLhyphen"/>ces of Ordnance at <hi>Goſport,</hi> and the Ordnance planted againſt <hi>Goſport</hi> from the four works could not be leſſe, than thirty pie<g ref="char:EOLhyphen"/>ces of Ordnance.</p>
+            <p>On <hi>Saterday</hi> night the third of <hi>September;</hi> the Parliaments forces took <hi>Souſy</hi> Caſtle, which lyeth a mile from the towne upon the Sea, &amp; the way thither is upon the ſea ſands: the Cap<g ref="char:EOLhyphen"/>taine of the Caſtle his name is Captain <hi>Challiner,</hi> who was in <hi>Portſmouth Saterday;</hi> and in the Evening went home to the caſtle, and his ſouldiers took horſe load of proviſion, Bisket and meale, &amp; other things. They report he had more drink in his head than did him good: And the townſ-men would have it conceived that he had been bribed with money to yeeld up the Caſtle, but the latter was not true; howbeit the former may be a truth; yet was that no furtherance to taking therof: For thus it was, there were about fourſcore muſquetteirs &amp; others that came in the night, unto the walls of the caſtle, and under their Ord<g ref="char:EOLhyphen"/>nance, and had with them a very good Engeneer, and with five and thirty ſcaling ladders: And the whole company in the caſtle are but twelve commanders, and all they were not able to deal with them upon ſuch advantage, and therefore they called unto them and adviſed them to yeeld, ſhewing them the advantage they had over them: Who ſeeing they were not able to withſtand them, yeelded the caſtle unto them: and the triumph at the taking was heard plaine about two of the clock in the morning into the Towne and ſo ſoon as they were Maſters of the caſtle they diſcharged two pieces of Ordnance againſt the town.</p>
+            <p>Now when the Governour ſaw the caſtle (which was for the
+<pb n="10" facs="tcp:123758:7"/>defence of the towne by Sea and by Land was going, and ſo much pelting with two pieces of Ordnance, and alſo having ſeene through a proſpective glaſſe<g ref="char:punc">▪</g> ſo good and faire a plat<g ref="char:EOLhyphen"/>form for ten pieces of Ordnance at <hi>Goſport</hi> in the morning before day-break, he called a councell of warre; and they ſoon agreed upon the ſending out a drum to ſound a parley which was done betimes, inſomuch that the parley was begun about ten of the clocke the ſame day: three Hoſtages of each ſide being appointed, <hi>viz.</hi> Out of the towne the Lord <hi>Wentworth</hi> Maſter <hi>Lewkner,</hi> and Maſter <hi>Weſton</hi> the Earle of <hi>Portlands</hi> brother, and from the Parliament ſide came unto the towne Sir <hi>William Waller,</hi> Sir <hi>William Lewes,</hi> and Sir <hi>Thomas Jervace:</hi> the parley was ended about five of the clock in the afternoon, but not confirmed untill ſeven of the clock. A trumpetter came into the town from the Committees of the Parliament, at which time it was made knowne, that they had concluded upon Articles that the towne ſhould be delive<g ref="char:EOLhyphen"/>red up; and that Colonell <hi>Groing</hi> ſhould have liberty to ſtay ſix of his ſervants ſome few dayes if he would; and have liber<g ref="char:EOLhyphen"/>ty to take over all his goods he had there: and the Lord <hi>Wentworth</hi> Maſter <hi>Lewkner,</hi> Maſter <hi>Weſton,</hi> and all the <hi>Cavalliers,</hi> all their ſervants and Adherents to be gone <hi>Wed<g ref="char:EOLhyphen"/>neſday,</hi> or <hi>Thurſday,</hi> and Articles to be ſealed which was done <hi>Wedneſday</hi> in the forenoone: and then about eleaven of the clock came into the towne Sir <hi>William Waller</hi> and Sir <hi>Thomas Jervace,</hi> accompanied with Sir <hi>Iohn M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldrem</hi> and Colonell <hi>Hurrey,</hi> and a troope of horſe and two companies of foot: and the poſſeſſion of the towne was then ſurrendred unto Sir <hi>William Waller,</hi> and Sir <hi>Thomas Jervaſe</hi> and the Lord <hi>Wentworth</hi> and his followers departed the towne the ſame day, and Maſter <hi>Weſton</hi> and his followers. And in the evening at ſix of the clock Colonell <hi>Goring</hi> took beat and rowed unto ſhip for Holland, but it is ſaid he would go through <hi>France,</hi> and that his goods were carried to ſhip<g ref="char:EOLhyphen"/>bord on <hi>Wedneſday</hi> and <hi>Thurſday.</hi>
+            </p>
+            <pb n="11" facs="tcp:123758:7"/>
+            <p>The Colonell <hi>Goring,</hi> had <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pelled a good miniſter one Maſter <hi>Tac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> out of the towne, at the time of his declaring himſelf as aforeſaid: who was brought in again into the town with Sir <hi>William Waller,</hi> and Sir <hi>Thomas Jervace:</hi> and is confirmed to be preacher unto the Cariſon.</p>
+            <p>And upon <hi>Thurſday</hi> about noon came into the town two troops of horſe, and there were neere unto the town in the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Porſey</hi> two companies of foot more. Upon <hi>Tueſday</hi> the ſixth of <hi>September</hi> was found dead atrooper, who had been miſſing fourteen dayes a Dutch manand a brave ſouldier his horſe came home and the ſaddle blooded, the day he was ſlain, there was ſix pounds in money found in his pocket: And the flyes had blown maggots on him; which was all the men that were ſlaine on the Parliaments ſide excepting the former man at <hi>Goſport</hi> with candle and lanthorn in his hand whom they conceive was not ſlain by the Governours troopers, but finding the place where he was ſlaine it was more probable he was ſlain by a Sentinell of their own ſide upon a miſtake.</p>
+            <p>For the proviſion of the towne that which was moſt want<g ref="char:EOLhyphen"/>ing was Hay and provender, which its ſuppoſed, would not have laſted above fourteen dayes, if ſo long.</p>
+            <p>There is a report there wanted ſalt, but they have killed beaſts dayly and ſalted them therfore it cannot be ſaid they yet wanted: but it is very likely, they might have wanted in a little time. They had meale and bisket enough for three moneths at leaſt, and they had ſalt meat in powder enough for the like time; they had not much Butter or Cheeſe in the towne, but there was good ſtore of malt.</p>
+            <p>It was conceived the greateſt cauſe, that induced the Parliament ſide to agree unto Articles, was for that they threatned to blow up the Magazine of the towne; which li<g ref="char:EOLhyphen"/>eth in two places: At the ſquare towre upon the Sea ſide are at leaſt twelve hundred Barrells of Gunpowder, and very much Ammunition, and at the other end of the towne at the
+<pb n="12" facs="tcp:123758:8"/>gate, are about two hundred barrells of gunpowder and ſome ammunition: And the having the power over the Magazines, if they had ſet them on fire, the whole towne had been utterly ſpoiled, and not one perſon in the towne could have been ſecured from deſtruction: Had it not been for, that it had been no hard matter within foure dayes to have gotten the towne from them by force, without ſpilling much blood.</p>
+            <p>The <hi>Cavalliers,</hi> when they ſaw they muſt needs be gone; ſtucke not to ſay, they would returne againe ere long, at the fartheſt before <hi>Chriſtmas,</hi> and take the Towne backe againe: Their ſtomacks were ſo full of the buſineſſe, they could not but vent ſome what: But it may well be preſumed, as it will be ſetled, fourty thouſand coming againſt it ſhall do them no great harme; ſo as there be ſhipping at Sea, as now there are ſix gooly ſhips under the command of the Earle of <hi>Warwick,</hi> who all this time did not ſpend a ſhot upon the towne, but did furniſh <hi>Goſport</hi> with the two peices of Ordnance.</p>
+            <p>The Lord <hi>Wentworth</hi> his name, his very memoriall for one act of his done at the Towne of <hi>Portſmouth,</hi> three yeeres and an halfe paſt, when his Majeſtie was at <hi>Barwick,</hi> and the <hi>Scots</hi> Army not far from thence: At which time the Lord <hi>Went<g ref="char:EOLhyphen"/>worth</hi> being at <hi>Portſmouth,</hi> and a <hi>Spaniſh</hi> navie riding on the Sea there before <hi>Portſmouth,</hi> he ſpent the powder in <hi>Portſ<g ref="char:EOLhyphen"/>mouth</hi> upon drinking of healths, threeſcore peices of Ord<g ref="char:EOLhyphen"/>nance were diſcharged in a night: Which will be juſtified, untill all the powder in the towne was ſpent, unto halfe a Barrell of Powder; and that by his means the like was in the Iſle of <hi>Wight,</hi> all was ſpent upon the like way.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:123758:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
